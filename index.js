@@ -2,7 +2,7 @@ function dwarfRollCall(dwarves) {
  var dwarvesSlot = [];
  if (dwarves.length > 0) {
    for (let i = 0; dwarves.length > i; i++){
-      dwarvesSlot.push(i+1 + "," + dwarves[i] + " " );
+      dwarvesSlot.push(i+1 + "Doc","Dopey","Bashful,"Grumpy" + dwarves[i] + " " );
    }
    return dwarvesSlot.join(' '};
  }  
