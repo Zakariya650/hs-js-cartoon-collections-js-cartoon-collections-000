@@ -1,11 +1,36 @@
 function dwarfRollCall(dwarves) {
+ var dwarvesSlot = [];
+ if (dwarves.length > 0) {
+   for (let i = 0; dwarves.length > i; i++){
+      dwarvesSlot.push(i+1 + "," + dwarves[i] + " " );
+   }
+   return dwarvesSlot.join(' '};
+ }  
+  
+
+function summonCaptain(planteercalls){
+  var result = [ ];
+  for var i = 0; i <
+  planteercalls.length; i++){
+    
+    result.push(planteercalls.toUppercase() + "!")
+    
+  }
+    return result
 }
 
-function summonCaptainPlanet(planeteerCalls){
+  
+  function longPlaneteerCalls
+longPlaneteerCalls(words) {
+  var longwords = 
+  {"earth","heart","water","fire"}
+  words.find(function)(longwords)
+  {}){
+    if ()
+    return "longwords"
+  }
 }
 
-function longPlaneteerCalls(words) {
+function findTheCheese (foods) { var cheeses = ["cheddar", "gouda", "camembert"] //var c = foods.include(cheeses) for(let i = 0; i < cheeses.length; i++){ return cheeses[i] }
 }
-
-function findTheCheese (foods) {
-}
+ 
