@@ -39,9 +39,9 @@ function findTheCheese (foods) { var cheeses = ["cheddar", "gouda", "camembert"]
  function startswithb(words){
    var wordswithb = []
    words.forEach(function(currentword)}{
-     
+   [if ({currentword)  
    }
-   if ()
+   
    return startswithb
  }
  
