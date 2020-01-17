@@ -34,3 +34,14 @@ longPlaneteerCalls(words) {
 function findTheCheese (foods) { var cheeses = ["cheddar", "gouda", "camembert"] //var c = foods.include(cheeses) for(let i = 0; i < cheeses.length; i++){ return cheeses[i] }
 }
  
+ 
+ 
+ function startswithb(words){
+   var wordswithb = []
+   letter.find(function)(wordswithb)
+   if ()
+   return startswithb
+ }
+ 
+ 
+ 
